@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class L2_SetOps
+public class SetOperations
 {
 	public static void main( String args[] ) throws Exception
 	{
